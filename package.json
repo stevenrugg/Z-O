@@ -26,7 +26,7 @@
     "@tinacms/auth": "^1.0.0",
     "dotenv": "8.6.0",
     "fast-glob": "3.2.2",
-    "gray-matter": "4.0.2",
+    "gray-matter": "4.0.3",
     "gsap": "3.7.1",
     "next": "11.1.0",
     "next-pwa": "5.3.1",
