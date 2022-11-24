@@ -45,7 +45,7 @@
     "tinacms": "^1.0.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "10.2.0",
+    "@next/bundle-analyzer": "13.0.5",
     "@tinacms/cli": "^1.0.0",
     "@types/classnames": "2.2.10",
     "@types/gsap": "1.20.2",
@@ -59,7 +59,7 @@
     "@types/styled-components": "5.1.0",
     "cross-env": "^7.0.3",
     "eslint": "7.32.0",
-    "eslint-config-next": "11.0.0",
+    "eslint-config-next": "13.0.5",
     "nextjs-sitemap-generator": "1.0.0",
     "postcss-preset-env": "6.7.0",
     "tailwindcss": "^2.0.1",
